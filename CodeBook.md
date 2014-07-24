@@ -2,9 +2,10 @@
 
 
 ##Variable names
-###The original data had 561 Variables, but for the tidy data set, only the mean and std are needed.
-###Two other variables were created during the merging of the test and training data set,Activity and Subject.
-###To make the variable names a little easier to read, the dash "-"  and the brackets "()" where removed.
+
+The original data had 561 Variables, but for the tidy data set, only the mean and std are needed.
+Two other variables were created during the merging of the test and training data set,Activity and Subject.
+To make the variable names a little easier to read, the dash "-"  and the brackets "()" where removed.
 
 	####* "Activity"
 	This variable contains the type of activity the person performed.
