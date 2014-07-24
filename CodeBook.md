@@ -20,7 +20,6 @@ The original values where just numbers which were later converted into          
 * STANDING
 * LAYING
 
-
 * ### Subject
 This Variable indicated which person the data was collected from.
 The value ranges from 1 to 30.
