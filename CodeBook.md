@@ -26,25 +26,7 @@ The value ranges from 1 to 30.
 	
 	
 #### The rest of the variables: Most of the  variable has three forms of it denoted by X,Y,Z at the end. The three letters used to denote 3-axial signals in the X, Y and Z directions.
-* tBodyAcc-XYZ
-* tGravityAcc-XYZ
-* tBodyAccJerk-XYZ
-* tBodyGyro-XYZ
-* tBodyGyroJerk-XYZ
-* tBodyAccMag
-* tGravityAccMag
-* tBodyAccJerkMag
-* tBodyGyroMag
-* tBodyGyroJerkMag
-* fBodyAcc-XYZ
-* fBodyAccJerk-XYZ
-* fBodyGyro-XYZ
-* fBodyAccMag
-* fBodyAccJerkMag
-* fBodyGyroMag
-* fBodyGyroJerkMag
-
-####Each form of the variable has two calculation performed, the mean and the Standard deviation. You can see this by having either mean or std near the the end of the variable name. At the end the values are displayed as floats withseven digits after the decimal point.
+####Each form of the variable has two calculation performed, the mean and the Standard deviation. You can see this by having either mean or std near the the end of the variable name. At the end the values are displayed as floats.
 	
 	
 * "tBodyAccmeanX"	
