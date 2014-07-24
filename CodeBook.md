@@ -7,34 +7,6 @@ The original data had 561 Variables, but for the tidy data set, only the mean an
 Two other variables were created during the merging of the test and training data set,Activity and Subject.
 To make the variable names a little easier to read, the dash "-"  and the brackets "()" where removed.
 
-	###* "Activity"
-	This variable contains the type of activity the person performed.
-	The original values where just numbers which were later converted into descriptive strings.
-	
-		The six potential values.
-			 * WALKING
-			 * WALKING_UPSTAIRS
-			 * WALKING_DOWNSTAIRS
-			 * SITTING
-			 * STANDING
-			 * LAYING
-	
-	
-	####* "Subject"
-	This Variable indicated which person the data was collected from.
-		The value ranges from 1 to 30.
-	
-	
-	
-#Code book for the run_analysis script
-
-
-##Variable names
-
-The original data had 561 Variables, but for the tidy data set, only the mean and std are needed.
-Two other variables were created during the merging of the test and training data set,Activity and Subject.
-To make the variable names a little easier to read, the dash "-"  and the brackets "()" where removed.
-
 * ### Activity
 This variable contains the type of activity the person performed.
 The original values where just numbers which were later converted into           descriptive strings.
@@ -73,7 +45,7 @@ The value ranges from 1 to 30.
 * fBodyGyroMag
 * fBodyGyroJerkMag
 
-####Each form of the variable has two calculation performed, the mean and the Standard deviation. You can see this by having either mean or std near the the end of the variable name. At the end the values are displayed as floats with seven digits after the decimal point. In total, there are 68 variables used in the two final data sets.
+####Each form of the variable has two calculation performed, the mean and the Standard deviation. You can see this by having either mean or std near the the end of the variable name. At the end the values are displayed as floats withseven digits after the decimal point.
 	
 	
 * "tBodyAccmeanX"	
@@ -142,4 +114,5 @@ The value ranges from 1 to 30.
 * "fBodyBodyGyroMagstd"	
 * "fBodyBodyGyroJerkMagmean"
 * "fBodyBodyGyroJerkMagstd"
+	
 	
