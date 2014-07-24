@@ -11,7 +11,7 @@ To make the variable names a little easier to read, the dash "-"  and the bracke
 This variable contains the type of activity the person performed.
 The original values where just numbers which were later converted into           descriptive strings.
 	
-####The six potential values.
+#####The six potential values for Activity.
 
 * WALKING
 * WALKING_UPSTAIRS
